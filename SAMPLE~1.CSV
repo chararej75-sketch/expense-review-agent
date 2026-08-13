@@ -1,0 +1,505 @@
+transaction_id,employee_id,employee_name,department,category,vendor,amount,currency,date,payment_method,description,receipt_attached,approved_by
+TXN00174,E008,Morgan Diaz,Operations,Training & Conferences,Conf Registration Inc,313.88,USD,2026-02-02,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Skyler James
+TXN00275,E010,Drew Patel,Finance,Travel - Airfare,United Airlines,711.1,USD,2026-03-23,Corporate Card,Travel - Airfare expense at United Airlines,True,Taylor Brooks
+TXN00490,E013,Reese Turner,Executive,Software & Subscriptions,Microsoft,294.15,USD,2026-05-30,Personal Card - Reimbursement,Software & Subscriptions expense at Microsoft,True,Reese Turner
+TXN00073,E008,Morgan Diaz,Operations,Client Gifts,Corporate Gifts Co,47.27,USD,2026-01-03,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Reese Turner
+TXN00306,E008,Morgan Diaz,Operations,Office Supplies,Amazon Business,103.65,USD,2026-03-17,Corporate Card,Office Supplies expense at Amazon Business,True,Dakota Reyes
+TXN00077,E017,Rowan Blake,Engineering,Office Supplies,Staples,64.19,USD,2026-03-15,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Taylor Brooks
+TXN00476,E012,Quinn Bailey,HR,Training & Conferences,EventBrite,861.08,USD,2026-04-14,Corporate Card,Training & Conferences expense at EventBrite,True,Riley Cooper
+TXN00141,E010,Drew Patel,Finance,Ground Transport,Lyft,50.37,USD,2026-02-03,Corporate Card,Ground Transport expense at Lyft,True,Reese Turner
+TXN00470,E016,Harper Wells,Marketing,Travel - Lodging,Marriott,640.14,USD,2026-03-29,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Riley Cooper
+TXN00499,E018,Emerson Hale,Operations,Office Supplies,Office Depot,619.76,USD,2026-04-04,Corporate Card,Office Supplies expense at Office Depot,False,Riley Cooper
+TXN00219,E005,Taylor Brooks,Engineering,Ground Transport,City Taxi,65.45,USD,2026-02-19,Personal Card - Reimbursement,Ground Transport expense at City Taxi,True,Priya Nair
+TXN00010,E001,Alex Morgan,Sales,Meals & Entertainment,Bistro 22,62.58,USD,2026-05-16,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Emerson Hale
+TXN00480,E011,Avery Scott,HR,Ground Transport,Lyft,76.71,USD,2026-04-06,Corporate Card,Ground Transport expense at Lyft,False,Riley Cooper
+TXN00079,E011,Avery Scott,HR,Software & Subscriptions,Zoom,268.17,USD,2026-01-25,Personal Card - Reimbursement,Software & Subscriptions expense at Zoom,True,Finley Grant
+TXN00323,E004,Sam Rivera,Marketing,Ground Transport,Uber,58.42,USD,2026-06-05,Corporate Card,Ground Transport expense at Uber,True,Alex Morgan
+TXN00313,E019,Finley Grant,Finance,Travel - Lodging,Holiday Inn,198.1,USD,2026-01-11,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Skyler James
+TXN00125,E014,Skyler James,Executive,Meals & Entertainment,Uptown Diner,87.41,USD,2026-01-22,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,False,Reese Turner
+TXN00385,E013,Reese Turner,Executive,Ground Transport,Uber,60.41,USD,2026-03-09,Personal Card - Reimbursement,Ground Transport expense at Uber,True,Drew Patel
+TXN00196,E018,Emerson Hale,Operations,Office Supplies,Staples,147.91,USD,2026-04-12,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Jamie Chen
+TXN00448,E016,Harper Wells,Marketing,Office Supplies,Office Depot,160.54,USD,2026-04-09,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Casey Kim
+TXN00272,E007,Casey Kim,Operations,Travel - Lodging,Holiday Inn,278.75,USD,2026-03-21,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Skyler James
+TXN00279,E016,Harper Wells,Marketing,Meals & Entertainment,Cafe Nine,35.59,USD,2026-06-28,Personal Card - Reimbursement,Meals & Entertainment expense at Cafe Nine,True,Cameron Ross
+TXN00031,E006,Jordan Lee,Engineering,Software & Subscriptions,Adobe,225.55,USD,2026-01-27,Personal Card - Reimbursement,Software & Subscriptions expense at Adobe,True,Harper Wells
+TXN00500,E016,Harper Wells,Marketing,Client Gifts,Gift Emporium,84.64,USD,2026-05-23,Corporate Card,Client Gifts expense at Gift Emporium,True,Riley Cooper
+TXN00421,E003,Priya Nair,Marketing,Software & Subscriptions,Microsoft,257.1,USD,2026-04-04,Cash - Reimbursement,Software & Subscriptions expense at Microsoft,True,Casey Kim
+TXN00445,E020,Dakota Reyes,HR,Training & Conferences,EventBrite,438.5,USD,2026-03-24,Corporate Card,Training & Conferences expense at EventBrite,True,Morgan Diaz
+TXN00080,E019,Finley Grant,Finance,Travel - Lodging,Marriott,101.94,USD,2026-03-02,Corporate Card,Travel - Lodging expense at Marriott,True,Taylor Brooks
+TXN00319,E020,Dakota Reyes,HR,Software & Subscriptions,Slack,299.94,USD,2026-05-11,Corporate Card,Software & Subscriptions expense at Slack,True,Rowan Blake
+TXN00211,E012,Quinn Bailey,HR,Training & Conferences,EventBrite,481.66,USD,2026-04-29,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,True,Riley Cooper
+TXN00496,E017,Rowan Blake,Engineering,Training & Conferences,Conf Registration Inc,750.0,USD,2026-03-13,Cash - Reimbursement,Training & Conferences expense at Conf Registration Inc,False,Riley Cooper
+TXN00173,E017,Rowan Blake,Engineering,Ground Transport,Uber,59.2,USD,2026-02-23,Personal Card - Reimbursement,Ground Transport expense at Uber,True,Drew Patel
+TXN00454,E013,Reese Turner,Executive,Travel - Lodging,Holiday Inn,126.82,USD,2026-05-12,Corporate Card,Travel - Lodging expense at Holiday Inn,False,Taylor Brooks
+TXN00375,E014,Skyler James,Executive,Travel - Airfare,United Airlines,491.85,USD,2026-01-06,Corporate Card,Travel - Airfare expense at United Airlines,True,Avery Scott
+TXN00359,E005,Taylor Brooks,Engineering,Office Supplies,Amazon Business,147.3,USD,2026-06-15,Corporate Card,Office Supplies expense at Amazon Business,True,Alex Morgan
+TXN00466,E020,Dakota Reyes,HR,Software & Subscriptions,Microsoft,1462.83,USD,2026-05-11,Personal Card - Reimbursement,Software & Subscriptions expense at Microsoft,False,Riley Cooper
+TXN00154,E013,Reese Turner,Executive,Training & Conferences,Conf Registration Inc,459.02,USD,2026-02-25,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Skyler James
+TXN00003,E002,Jamie Chen,Sales,Training & Conferences,Conf Registration Inc,235.56,USD,2026-01-22,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Avery Scott
+TXN00336,E014,Skyler James,Executive,Travel - Airfare,United Airlines,289.45,USD,2026-02-17,Corporate Card,Travel - Airfare expense at United Airlines,True,Jordan Lee
+TXN00209,E002,Jamie Chen,Sales,Meals & Entertainment,The Grill House,60.33,USD,2026-01-07,Personal Card - Reimbursement,Meals & Entertainment expense at The Grill House,True,Skyler James
+TXN00074,E005,Taylor Brooks,Engineering,Software & Subscriptions,Microsoft,315.5,USD,2026-02-16,Corporate Card,Software & Subscriptions expense at Microsoft,True,Cameron Ross
+TXN00495,E020,Dakota Reyes,HR,Ground Transport,Uber,256.0,USD,2026-03-22,Corporate Card,Ground Transport expense at Uber,True,Riley Cooper
+TXN00452,E011,Avery Scott,HR,Client Gifts,Corporate Gifts Co,23.1,USD,2026-05-20,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Emerson Hale
+TXN00205,E005,Taylor Brooks,Engineering,Travel - Airfare,Delta Air,359.55,USD,2026-02-12,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,True,Finley Grant
+TXN00069,E001,Alex Morgan,Sales,Software & Subscriptions,Adobe,224.04,USD,2026-01-11,Corporate Card,Software & Subscriptions expense at Adobe,True,Emerson Hale
+TXN00091,E011,Avery Scott,HR,Ground Transport,City Taxi,78.12,USD,2026-06-28,Personal Card - Reimbursement,Ground Transport expense at City Taxi,True,Quinn Bailey
+TXN00300,E007,Casey Kim,Operations,Software & Subscriptions,Slack,245.9,USD,2026-05-01,Corporate Card,Software & Subscriptions expense at Slack,True,Cameron Ross
+TXN00034,E020,Dakota Reyes,HR,Client Gifts,Gift Emporium,42.36,USD,2026-03-08,Corporate Card,Client Gifts expense at Gift Emporium,True,Priya Nair
+TXN00071,E005,Taylor Brooks,Engineering,Client Gifts,Gift Emporium,77.58,USD,2026-02-22,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Emerson Hale
+TXN00469,E016,Harper Wells,Marketing,Software & Subscriptions,Microsoft,300.0,USD,2026-01-07,Personal Card - Reimbursement,Software & Subscriptions expense at Microsoft,False,Riley Cooper
+TXN00001,E007,Casey Kim,Operations,Ground Transport,Uber,35.11,USD,2026-01-21,Corporate Card,Ground Transport expense at Uber,True,Quinn Bailey
+TXN00012,E002,Jamie Chen,Sales,Meals & Entertainment,Uptown Diner,59.22,USD,2026-02-06,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Sam Rivera
+TXN00282,E008,Morgan Diaz,Operations,Travel - Airfare,United Airlines,584.51,USD,2026-05-11,Personal Card - Reimbursement,Travel - Airfare expense at United Airlines,True,Priya Nair
+TXN00023,E006,Jordan Lee,Engineering,Training & Conferences,EventBrite,600.14,USD,2026-06-13,Corporate Card,Training & Conferences expense at EventBrite,True,Dakota Reyes
+TXN00102,E004,Sam Rivera,Marketing,Office Supplies,Office Depot,153.9,USD,2026-06-04,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Jamie Chen
+TXN00269,E014,Skyler James,Executive,Travel - Airfare,American Airlines,453.69,USD,2026-02-18,Corporate Card,Travel - Airfare expense at American Airlines,True,Sam Rivera
+TXN00484,E015,Cameron Ross,Sales,Travel - Airfare,American Airlines,750.0,USD,2026-03-04,Corporate Card,Travel - Airfare expense at American Airlines,False,Riley Cooper
+TXN00442,E007,Casey Kim,Operations,Software & Subscriptions,Adobe,134.31,USD,2026-06-22,Corporate Card,Software & Subscriptions expense at Adobe,True,Cameron Ross
+TXN00291,E009,Riley Cooper,Finance,Office Supplies,Office Depot,164.79,USD,2026-01-30,Corporate Card,Office Supplies expense at Office Depot,True,Alex Morgan
+TXN00085,E013,Reese Turner,Executive,Travel - Airfare,United Airlines,436.97,USD,2026-04-29,Corporate Card,Travel - Airfare expense at United Airlines,True,Emerson Hale
+TXN00246,E019,Finley Grant,Finance,Travel - Lodging,Hilton,86.92,USD,2026-04-06,Corporate Card,Travel - Lodging expense at Hilton,True,Cameron Ross
+TXN00064,E020,Dakota Reyes,HR,Meals & Entertainment,Cafe Nine,38.54,USD,2026-05-23,Corporate Card,Meals & Entertainment expense at Cafe Nine,True,Priya Nair
+TXN00056,E016,Harper Wells,Marketing,Meals & Entertainment,Bistro 22,33.18,USD,2026-06-16,Cash - Reimbursement,Meals & Entertainment expense at Bistro 22,True,Priya Nair
+TXN00230,E004,Sam Rivera,Marketing,Client Gifts,Corporate Gifts Co,27.84,USD,2026-05-05,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Skyler James
+TXN00019,E015,Cameron Ross,Sales,Travel - Lodging,Hilton,115.29,USD,2026-06-29,Corporate Card,Travel - Lodging expense at Hilton,False,Quinn Bailey
+TXN00411,E002,Jamie Chen,Sales,Meals & Entertainment,Bistro 22,48.11,USD,2026-03-15,Personal Card - Reimbursement,Meals & Entertainment expense at Bistro 22,True,Morgan Diaz
+TXN00210,E007,Casey Kim,Operations,Client Gifts,Corporate Gifts Co,63.53,USD,2026-02-05,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Alex Morgan
+TXN00395,E007,Casey Kim,Operations,Training & Conferences,Conf Registration Inc,549.45,USD,2026-01-16,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Avery Scott
+TXN00083,E003,Priya Nair,Marketing,Office Supplies,Amazon Business,122.61,USD,2026-01-14,Personal Card - Reimbursement,Office Supplies expense at Amazon Business,True,Jamie Chen
+TXN00040,E012,Quinn Bailey,HR,Office Supplies,Amazon Business,50.56,USD,2026-04-26,Corporate Card,Office Supplies expense at Amazon Business,True,Morgan Diaz
+TXN00456,E015,Cameron Ross,Sales,Office Supplies,Office Depot,139.14,USD,2026-02-25,Corporate Card,Office Supplies expense at Office Depot,True,Casey Kim
+TXN00047,E013,Reese Turner,Executive,Ground Transport,City Taxi,90.32,USD,2026-06-09,Personal Card - Reimbursement,Ground Transport expense at City Taxi,True,Finley Grant
+TXN00413,E002,Jamie Chen,Sales,Software & Subscriptions,Slack,189.8,USD,2026-03-14,Personal Card - Reimbursement,Software & Subscriptions expense at Slack,True,Drew Patel
+TXN00315,E007,Casey Kim,Operations,Ground Transport,Lyft,74.25,USD,2026-06-23,Corporate Card,Ground Transport expense at Lyft,True,Emerson Hale
+TXN00355,E017,Rowan Blake,Engineering,Software & Subscriptions,Zoom,359.27,USD,2026-05-25,Personal Card - Reimbursement,Software & Subscriptions expense at Zoom,True,Alex Morgan
+TXN00078,E002,Jamie Chen,Sales,Software & Subscriptions,Adobe,180.27,USD,2026-02-12,Corporate Card,Software & Subscriptions expense at Adobe,True,Rowan Blake
+TXN00398,E009,Riley Cooper,Finance,Client Gifts,Corporate Gifts Co,25.44,USD,2026-06-16,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Casey Kim
+TXN00105,E004,Sam Rivera,Marketing,Ground Transport,Lyft,37.86,USD,2026-01-11,Cash - Reimbursement,Ground Transport expense at Lyft,True,Casey Kim
+TXN00204,E003,Priya Nair,Marketing,Office Supplies,Office Depot,184.46,USD,2026-06-05,Corporate Card,Office Supplies expense at Office Depot,True,Reese Turner
+TXN00381,E009,Riley Cooper,Finance,Office Supplies,Office Depot,157.05,USD,2026-06-05,Corporate Card,Office Supplies expense at Office Depot,True,Drew Patel
+TXN00488,E017,Rowan Blake,Engineering,Office Supplies,Office Depot,161.2,USD,2026-03-18,Personal Card - Reimbursement,Office Supplies expense at Office Depot,False,Riley Cooper
+TXN00070,E013,Reese Turner,Executive,Meals & Entertainment,Cafe Nine,26.48,USD,2026-05-29,Corporate Card,Meals & Entertainment expense at Cafe Nine,True,Emerson Hale
+TXN00408,E015,Cameron Ross,Sales,Client Gifts,Corporate Gifts Co,65.79,USD,2026-05-28,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Drew Patel
+TXN00256,E012,Quinn Bailey,HR,Client Gifts,Gift Emporium,61.47,USD,2026-04-16,Corporate Card,Client Gifts expense at Gift Emporium,True,Reese Turner
+TXN00392,E006,Jordan Lee,Engineering,Office Supplies,Staples,184.59,USD,2026-06-15,Corporate Card,Office Supplies expense at Staples,True,Dakota Reyes
+TXN00312,E017,Rowan Blake,Engineering,Training & Conferences,Conf Registration Inc,349.49,USD,2026-01-09,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Emerson Hale
+TXN00235,E016,Harper Wells,Marketing,Ground Transport,Uber,59.66,USD,2026-01-17,Corporate Card,Ground Transport expense at Uber,True,Sam Rivera
+TXN00473,E019,Finley Grant,Finance,Software & Subscriptions,Slack,500.0,USD,2026-04-08,Corporate Card,Software & Subscriptions expense at Slack,True,Riley Cooper
+TXN00324,E001,Alex Morgan,Sales,Client Gifts,Corporate Gifts Co,37.97,USD,2026-05-26,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Quinn Bailey
+TXN00094,E013,Reese Turner,Executive,Travel - Lodging,Holiday Inn,74.12,USD,2026-01-10,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Jamie Chen
+TXN00138,E009,Riley Cooper,Finance,Travel - Lodging,Hilton,165.2,USD,2026-04-26,Personal Card - Reimbursement,Travel - Lodging expense at Hilton,True,Drew Patel
+TXN00177,E018,Emerson Hale,Operations,Ground Transport,Lyft,66.94,USD,2026-04-21,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Harper Wells
+TXN00337,E004,Sam Rivera,Marketing,Software & Subscriptions,Slack,139.78,USD,2026-05-23,Personal Card - Reimbursement,Software & Subscriptions expense at Slack,True,Dakota Reyes
+TXN00132,E009,Riley Cooper,Finance,Travel - Airfare,United Airlines,257.13,USD,2026-01-17,Corporate Card,Travel - Airfare expense at United Airlines,True,Morgan Diaz
+TXN00502,E004,Sam Rivera,Marketing,Office Supplies,Office Depot,208.54,USD,2026-03-27,Personal Card - Reimbursement,Office Supplies expense at Office Depot (split submission),True,Riley Cooper
+TXN00365,E001,Alex Morgan,Sales,Ground Transport,City Taxi,77.59,USD,2026-04-14,Corporate Card,Ground Transport expense at City Taxi,True,Avery Scott
+TXN00133,E010,Drew Patel,Finance,Meals & Entertainment,Bistro 22,29.72,USD,2026-04-18,Personal Card - Reimbursement,Meals & Entertainment expense at Bistro 22,True,Jamie Chen
+TXN00332,E007,Casey Kim,Operations,Ground Transport,City Taxi,32.81,USD,2026-05-05,Corporate Card,Ground Transport expense at City Taxi,True,Quinn Bailey
+TXN00412,E015,Cameron Ross,Sales,Software & Subscriptions,Zoom,164.65,USD,2026-04-18,Corporate Card,Software & Subscriptions expense at Zoom,True,Jamie Chen
+TXN00503,E013,Reese Turner,Executive,Meals & Entertainment,Uptown Diner,124.68,USD,2026-01-18,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner (split submission),True,Riley Cooper
+TXN00350,E010,Drew Patel,Finance,Travel - Airfare,United Airlines,235.09,USD,2026-01-14,Corporate Card,Travel - Airfare expense at United Airlines,True,Cameron Ross
+TXN00087,E009,Riley Cooper,Finance,Office Supplies,Office Depot,53.22,USD,2026-02-03,Corporate Card,Office Supplies expense at Office Depot,True,Quinn Bailey
+TXN00076,E019,Finley Grant,Finance,Client Gifts,Corporate Gifts Co,38.47,USD,2026-03-20,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Finley Grant
+TXN00443,E008,Morgan Diaz,Operations,Travel - Airfare,American Airlines,383.27,USD,2026-05-16,Personal Card - Reimbursement,Travel - Airfare expense at American Airlines,True,Riley Cooper
+TXN00016,E019,Finley Grant,Finance,Software & Subscriptions,Zoom,357.95,USD,2026-05-14,Corporate Card,Software & Subscriptions expense at Zoom,True,Dakota Reyes
+TXN00326,E004,Sam Rivera,Marketing,Meals & Entertainment,The Grill House,111.12,USD,2026-03-29,Corporate Card,Meals & Entertainment expense at The Grill House,True,Taylor Brooks
+TXN00389,E020,Dakota Reyes,HR,Office Supplies,Staples,77.27,USD,2026-04-22,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Sam Rivera
+TXN00020,E007,Casey Kim,Operations,Travel - Airfare,American Airlines,398.06,USD,2026-03-22,Corporate Card,Travel - Airfare expense at American Airlines,False,Taylor Brooks
+TXN00325,E017,Rowan Blake,Engineering,Meals & Entertainment,Cafe Nine,101.4,USD,2026-06-25,Corporate Card,Meals & Entertainment expense at Cafe Nine,False,Alex Morgan
+TXN00335,E011,Avery Scott,HR,Software & Subscriptions,Adobe,212.73,USD,2026-05-19,Corporate Card,Software & Subscriptions expense at Adobe,True,Riley Cooper
+TXN00057,E011,Avery Scott,HR,Travel - Lodging,Hilton,295.92,USD,2026-05-25,Corporate Card,Travel - Lodging expense at Hilton,True,Skyler James
+TXN00339,E007,Casey Kim,Operations,Office Supplies,Amazon Business,68.12,USD,2026-04-26,Corporate Card,Office Supplies expense at Amazon Business,True,Alex Morgan
+TXN00409,E009,Riley Cooper,Finance,Meals & Entertainment,Uptown Diner,31.17,USD,2026-01-17,Corporate Card,Meals & Entertainment expense at Uptown Diner,True,Riley Cooper
+TXN00334,E005,Taylor Brooks,Engineering,Client Gifts,Gift Emporium,28.14,USD,2026-04-11,Corporate Card,Client Gifts expense at Gift Emporium,True,Jamie Chen
+TXN00182,E001,Alex Morgan,Sales,Client Gifts,Corporate Gifts Co,30.26,USD,2026-01-24,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Reese Turner
+TXN00228,E014,Skyler James,Executive,Software & Subscriptions,Slack,313.53,USD,2026-03-14,Corporate Card,Software & Subscriptions expense at Slack,True,Jamie Chen
+TXN00427,E014,Skyler James,Executive,Software & Subscriptions,Microsoft,202.25,USD,2026-03-26,Corporate Card,Software & Subscriptions expense at Microsoft,True,Drew Patel
+TXN00181,E005,Taylor Brooks,Engineering,Training & Conferences,Conf Registration Inc,664.64,USD,2026-02-04,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Harper Wells
+TXN00026,E002,Jamie Chen,Sales,Meals & Entertainment,Uptown Diner,112.18,USD,2026-06-09,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Sam Rivera
+TXN00330,E005,Taylor Brooks,Engineering,Office Supplies,Staples,123.27,USD,2026-03-27,Corporate Card,Office Supplies expense at Staples,True,Priya Nair
+TXN00239,E013,Reese Turner,Executive,Office Supplies,Staples,162.53,USD,2026-06-13,Corporate Card,Office Supplies expense at Staples,True,Avery Scott
+TXN00245,E017,Rowan Blake,Engineering,Office Supplies,Staples,97.95,USD,2026-05-19,Cash - Reimbursement,Office Supplies expense at Staples,True,Dakota Reyes
+TXN00251,E020,Dakota Reyes,HR,Software & Subscriptions,Zoom,112.44,USD,2026-06-23,Corporate Card,Software & Subscriptions expense at Zoom,False,Casey Kim
+TXN00418,E020,Dakota Reyes,HR,Travel - Lodging,Marriott,281.66,USD,2026-01-15,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Finley Grant
+TXN00118,E008,Morgan Diaz,Operations,Meals & Entertainment,The Grill House,43.63,USD,2026-03-13,Corporate Card,Meals & Entertainment expense at The Grill House,True,Priya Nair
+TXN00043,E013,Reese Turner,Executive,Office Supplies,Staples,184.42,USD,2026-03-10,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Quinn Bailey
+TXN00322,E012,Quinn Bailey,HR,Travel - Airfare,American Airlines,506.99,USD,2026-02-10,Corporate Card,Travel - Airfare expense at American Airlines,True,Rowan Blake
+TXN00347,E016,Harper Wells,Marketing,Travel - Airfare,Delta Air,544.42,USD,2026-05-24,Corporate Card,Travel - Airfare expense at Delta Air,True,Reese Turner
+TXN00183,E020,Dakota Reyes,HR,Ground Transport,Lyft,83.32,USD,2026-06-13,Corporate Card,Ground Transport expense at Lyft,True,Sam Rivera
+TXN00156,E013,Reese Turner,Executive,Travel - Lodging,Marriott,230.79,USD,2026-06-04,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Avery Scott
+TXN00281,E014,Skyler James,Executive,Ground Transport,Lyft,19.92,USD,2026-03-20,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Riley Cooper
+TXN00127,E017,Rowan Blake,Engineering,Office Supplies,Staples,115.72,USD,2026-04-27,Corporate Card,Office Supplies expense at Staples,True,Jordan Lee
+TXN00449,E009,Riley Cooper,Finance,Client Gifts,Corporate Gifts Co,39.24,USD,2026-05-24,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Sam Rivera
+TXN00032,E001,Alex Morgan,Sales,Office Supplies,Staples,115.24,USD,2026-02-18,Corporate Card,Office Supplies expense at Staples,False,Cameron Ross
+TXN00114,E017,Rowan Blake,Engineering,Client Gifts,Gift Emporium,35.58,USD,2026-06-28,Corporate Card,Client Gifts expense at Gift Emporium,True,Emerson Hale
+TXN00149,E017,Rowan Blake,Engineering,Meals & Entertainment,Bistro 22,78.88,USD,2026-05-03,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Emerson Hale
+TXN00430,E005,Taylor Brooks,Engineering,Ground Transport,Lyft,46.05,USD,2026-02-08,Corporate Card,Ground Transport expense at Lyft,True,Drew Patel
+TXN00401,E004,Sam Rivera,Marketing,Travel - Airfare,Delta Air,202.33,USD,2026-03-19,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,False,Taylor Brooks
+TXN00058,E008,Morgan Diaz,Operations,Travel - Airfare,Delta Air,775.27,USD,2026-01-05,Corporate Card,Travel - Airfare expense at Delta Air,True,Riley Cooper
+TXN00195,E012,Quinn Bailey,HR,Software & Subscriptions,Zoom,113.39,USD,2026-02-21,Personal Card - Reimbursement,Software & Subscriptions expense at Zoom,True,Morgan Diaz
+TXN00025,E018,Emerson Hale,Operations,Client Gifts,Gift Emporium,68.93,USD,2026-05-24,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Rowan Blake
+TXN00018,E009,Riley Cooper,Finance,Travel - Lodging,Holiday Inn,102.19,USD,2026-03-03,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Quinn Bailey
+TXN00298,E008,Morgan Diaz,Operations,Software & Subscriptions,Slack,202.84,USD,2026-03-25,Corporate Card,Software & Subscriptions expense at Slack,True,Cameron Ross
+TXN00067,E009,Riley Cooper,Finance,Meals & Entertainment,The Grill House,99.17,USD,2026-06-06,Corporate Card,Meals & Entertainment expense at The Grill House,True,Jordan Lee
+TXN00212,E009,Riley Cooper,Finance,Client Gifts,Corporate Gifts Co,27.29,USD,2026-06-19,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Taylor Brooks
+TXN00404,E005,Taylor Brooks,Engineering,Training & Conferences,EventBrite,308.62,USD,2026-04-24,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,True,Finley Grant
+TXN00095,E013,Reese Turner,Executive,Training & Conferences,Conf Registration Inc,183.14,USD,2026-03-14,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Jordan Lee
+TXN00155,E013,Reese Turner,Executive,Meals & Entertainment,Cafe Nine,73.75,USD,2026-04-02,Personal Card - Reimbursement,Meals & Entertainment expense at Cafe Nine,True,Riley Cooper
+TXN00441,E009,Riley Cooper,Finance,Training & Conferences,Conf Registration Inc,590.61,USD,2026-03-21,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Riley Cooper
+TXN00024,E020,Dakota Reyes,HR,Training & Conferences,EventBrite,232.61,USD,2026-05-08,Corporate Card,Training & Conferences expense at EventBrite,True,Avery Scott
+TXN00226,E003,Priya Nair,Marketing,Ground Transport,Lyft,53.2,USD,2026-02-24,Corporate Card,Ground Transport expense at Lyft,True,Harper Wells
+TXN00433,E020,Dakota Reyes,HR,Client Gifts,Corporate Gifts Co,22.88,USD,2026-04-14,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Quinn Bailey
+TXN00447,E009,Riley Cooper,Finance,Ground Transport,City Taxi,79.79,USD,2026-02-17,Corporate Card,Ground Transport expense at City Taxi,True,Taylor Brooks
+TXN00006,E002,Jamie Chen,Sales,Ground Transport,City Taxi,70.24,USD,2026-01-08,Corporate Card,Ground Transport expense at City Taxi,True,Riley Cooper
+TXN00117,E010,Drew Patel,Finance,Travel - Airfare,American Airlines,645.72,USD,2026-03-28,Cash - Reimbursement,Travel - Airfare expense at American Airlines,True,Casey Kim
+TXN00046,E005,Taylor Brooks,Engineering,Ground Transport,Lyft,36.86,USD,2026-05-27,Corporate Card,Ground Transport expense at Lyft,True,Jordan Lee
+TXN00017,E011,Avery Scott,HR,Training & Conferences,Conf Registration Inc,202.71,USD,2026-05-09,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Skyler James
+TXN00494,E007,Casey Kim,Operations,Client Gifts,Corporate Gifts Co,200.0,USD,2026-05-12,Corporate Card,Client Gifts expense at Corporate Gifts Co,False,Riley Cooper
+TXN00362,E013,Reese Turner,Executive,Meals & Entertainment,The Grill House,35.12,USD,2026-02-13,Corporate Card,Meals & Entertainment expense at The Grill House,True,Skyler James
+TXN00004,E016,Harper Wells,Marketing,Client Gifts,Corporate Gifts Co,23.53,USD,2026-04-18,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Priya Nair
+TXN00295,E004,Sam Rivera,Marketing,Travel - Airfare,Delta Air,336.98,USD,2026-01-21,Corporate Card,Travel - Airfare expense at Delta Air,True,Cameron Ross
+TXN00186,E012,Quinn Bailey,HR,Software & Subscriptions,Microsoft,230.85,USD,2026-06-15,Corporate Card,Software & Subscriptions expense at Microsoft,True,Harper Wells
+TXN00061,E018,Emerson Hale,Operations,Ground Transport,Lyft,22.65,USD,2026-03-02,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Priya Nair
+TXN00111,E020,Dakota Reyes,HR,Meals & Entertainment,Cafe Nine,107.02,USD,2026-06-11,Personal Card - Reimbursement,Meals & Entertainment expense at Cafe Nine,True,Quinn Bailey
+TXN00321,E006,Jordan Lee,Engineering,Ground Transport,Uber,70.01,USD,2026-04-09,Corporate Card,Ground Transport expense at Uber,True,Casey Kim
+TXN00266,E001,Alex Morgan,Sales,Meals & Entertainment,Cafe Nine,83.68,USD,2026-05-23,Corporate Card,Meals & Entertainment expense at Cafe Nine,True,Quinn Bailey
+TXN00030,E016,Harper Wells,Marketing,Ground Transport,City Taxi,71.45,USD,2026-06-25,Corporate Card,Ground Transport expense at City Taxi,True,Skyler James
+TXN00263,E002,Jamie Chen,Sales,Software & Subscriptions,Microsoft,255.76,USD,2026-05-27,Corporate Card,Software & Subscriptions expense at Microsoft,True,Skyler James
+TXN00477,E010,Drew Patel,Finance,Client Gifts,Corporate Gifts Co,55.12,USD,2026-02-18,Corporate Card,Client Gifts expense at Corporate Gifts Co,False,Riley Cooper
+TXN00027,E019,Finley Grant,Finance,Training & Conferences,Conf Registration Inc,623.87,USD,2026-04-30,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Rowan Blake
+TXN00008,E002,Jamie Chen,Sales,Travel - Airfare,United Airlines,850.83,USD,2026-01-15,Corporate Card,Travel - Airfare expense at United Airlines,True,Riley Cooper
+TXN00458,E011,Avery Scott,HR,Office Supplies,Amazon Business,161.07,USD,2026-04-19,Corporate Card,Office Supplies expense at Amazon Business,True,Rowan Blake
+TXN00109,E001,Alex Morgan,Sales,Software & Subscriptions,Adobe,374.65,USD,2026-02-26,Corporate Card,Software & Subscriptions expense at Adobe,True,Dakota Reyes
+TXN00038,E014,Skyler James,Executive,Training & Conferences,Conf Registration Inc,617.29,USD,2026-04-02,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Dakota Reyes
+TXN00158,E018,Emerson Hale,Operations,Ground Transport,Lyft,80.45,USD,2026-02-08,Corporate Card,Ground Transport expense at Lyft,True,Rowan Blake
+TXN00471,E005,Taylor Brooks,Engineering,Travel - Airfare,Delta Air,3486.28,USD,2026-04-29,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,False,Riley Cooper
+TXN00119,E019,Finley Grant,Finance,Meals & Entertainment,Uptown Diner,44.43,USD,2026-04-06,Cash - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Skyler James
+TXN00115,E013,Reese Turner,Executive,Office Supplies,Office Depot,165.92,USD,2026-01-01,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Jamie Chen
+TXN00176,E010,Drew Patel,Finance,Client Gifts,Corporate Gifts Co,24.46,USD,2026-05-03,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Riley Cooper
+TXN00193,E006,Jordan Lee,Engineering,Office Supplies,Staples,51.3,USD,2026-06-28,Corporate Card,Office Supplies expense at Staples,True,Finley Grant
+TXN00273,E006,Jordan Lee,Engineering,Ground Transport,Uber,53.27,USD,2026-03-25,Personal Card - Reimbursement,Ground Transport expense at Uber,True,Sam Rivera
+TXN00145,E001,Alex Morgan,Sales,Office Supplies,Office Depot,44.81,USD,2026-05-01,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Jordan Lee
+TXN00489,E004,Sam Rivera,Marketing,Ground Transport,City Taxi,56.06,USD,2026-02-22,Corporate Card,Ground Transport expense at City Taxi,True,Riley Cooper
+TXN00383,E013,Reese Turner,Executive,Office Supplies,Office Depot,173.48,USD,2026-06-04,Cash - Reimbursement,Office Supplies expense at Office Depot,True,Casey Kim
+TXN00356,E010,Drew Patel,Finance,Client Gifts,Gift Emporium,34.63,USD,2026-04-11,Cash - Reimbursement,Client Gifts expense at Gift Emporium,True,Rowan Blake
+TXN00278,E007,Casey Kim,Operations,Software & Subscriptions,Adobe,238.47,USD,2026-04-08,Corporate Card,Software & Subscriptions expense at Adobe,True,Jamie Chen
+TXN00221,E012,Quinn Bailey,HR,Travel - Airfare,Delta Air,309.67,USD,2026-02-24,Corporate Card,Travel - Airfare expense at Delta Air,True,Rowan Blake
+TXN00450,E010,Drew Patel,Finance,Office Supplies,Staples,133.14,USD,2026-06-19,Corporate Card,Office Supplies expense at Staples,True,Harper Wells
+TXN00142,E018,Emerson Hale,Operations,Training & Conferences,Conf Registration Inc,571.33,USD,2026-01-29,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Quinn Bailey
+TXN00369,E002,Jamie Chen,Sales,Travel - Airfare,Delta Air,720.53,USD,2026-01-04,Cash - Reimbursement,Travel - Airfare expense at Delta Air,True,Jordan Lee
+TXN00068,E018,Emerson Hale,Operations,Travel - Lodging,Marriott,209.31,USD,2026-02-25,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Taylor Brooks
+TXN00361,E012,Quinn Bailey,HR,Ground Transport,Uber,69.46,USD,2026-03-06,Personal Card - Reimbursement,Ground Transport expense at Uber,True,Priya Nair
+TXN00169,E003,Priya Nair,Marketing,Office Supplies,Staples,179.11,USD,2026-05-28,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Cameron Ross
+TXN00498,E016,Harper Wells,Marketing,Client Gifts,Corporate Gifts Co,86.76,USD,2026-05-25,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,False,Riley Cooper
+TXN00379,E017,Rowan Blake,Engineering,Travel - Lodging,Holiday Inn,190.04,USD,2026-01-08,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Sam Rivera
+TXN00366,E015,Cameron Ross,Sales,Software & Subscriptions,Adobe,112.39,USD,2026-06-02,Personal Card - Reimbursement,Software & Subscriptions expense at Adobe,True,Quinn Bailey
+TXN00194,E011,Avery Scott,HR,Software & Subscriptions,Microsoft,176.8,USD,2026-02-08,Corporate Card,Software & Subscriptions expense at Microsoft,True,Finley Grant
+TXN00250,E011,Avery Scott,HR,Travel - Airfare,American Airlines,262.77,USD,2026-06-02,Corporate Card,Travel - Airfare expense at American Airlines,True,Finley Grant
+TXN00110,E008,Morgan Diaz,Operations,Client Gifts,Gift Emporium,41.48,USD,2026-06-29,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Priya Nair
+TXN00434,E018,Emerson Hale,Operations,Software & Subscriptions,Microsoft,239.14,USD,2026-05-06,Corporate Card,Software & Subscriptions expense at Microsoft,True,Skyler James
+TXN00146,E005,Taylor Brooks,Engineering,Travel - Lodging,Hilton,300.18,USD,2026-03-29,Corporate Card,Travel - Lodging expense at Hilton,True,Morgan Diaz
+TXN00093,E020,Dakota Reyes,HR,Meals & Entertainment,Uptown Diner,35.89,USD,2026-03-05,Corporate Card,Meals & Entertainment expense at Uptown Diner,True,Sam Rivera
+TXN00153,E016,Harper Wells,Marketing,Travel - Airfare,United Airlines,239.45,USD,2026-01-28,Corporate Card,Travel - Airfare expense at United Airlines,True,Morgan Diaz
+TXN00223,E008,Morgan Diaz,Operations,Software & Subscriptions,Adobe,300.0,USD,2026-03-06,Personal Card - Reimbursement,Software & Subscriptions expense at Adobe,True,Jordan Lee
+TXN00410,E005,Taylor Brooks,Engineering,Travel - Airfare,United Airlines,600.19,USD,2026-06-26,Corporate Card,Travel - Airfare expense at United Airlines,True,Avery Scott
+TXN00084,E013,Reese Turner,Executive,Travel - Airfare,United Airlines,287.04,USD,2026-01-03,Personal Card - Reimbursement,Travel - Airfare expense at United Airlines,True,Harper Wells
+TXN00249,E004,Sam Rivera,Marketing,Ground Transport,City Taxi,91.57,USD,2026-06-09,Personal Card - Reimbursement,Ground Transport expense at City Taxi,True,Jamie Chen
+TXN00166,E016,Harper Wells,Marketing,Office Supplies,Amazon Business,185.98,USD,2026-05-11,Corporate Card,Office Supplies expense at Amazon Business,True,Jordan Lee
+TXN00164,E014,Skyler James,Executive,Travel - Airfare,Delta Air,860.41,USD,2026-02-08,Corporate Card,Travel - Airfare expense at Delta Air,True,Avery Scott
+TXN00200,E013,Reese Turner,Executive,Meals & Entertainment,The Grill House,77.22,USD,2026-03-09,Personal Card - Reimbursement,Meals & Entertainment expense at The Grill House,True,Sam Rivera
+TXN00232,E014,Skyler James,Executive,Ground Transport,Lyft,42.26,USD,2026-06-09,Corporate Card,Ground Transport expense at Lyft,True,Dakota Reyes
+TXN00075,E002,Jamie Chen,Sales,Travel - Lodging,Holiday Inn,279.84,USD,2026-02-07,Personal Card - Reimbursement,Travel - Lodging expense at Holiday Inn,True,Harper Wells
+TXN00311,E017,Rowan Blake,Engineering,Office Supplies,Staples,38.36,USD,2026-05-16,Corporate Card,Office Supplies expense at Staples,True,Casey Kim
+TXN00455,E020,Dakota Reyes,HR,Ground Transport,Uber,49.28,USD,2026-03-04,Corporate Card,Ground Transport expense at Uber,True,Priya Nair
+TXN00254,E002,Jamie Chen,Sales,Office Supplies,Staples,150.49,USD,2026-04-05,Corporate Card,Office Supplies expense at Staples,True,Reese Turner
+TXN00120,E011,Avery Scott,HR,Training & Conferences,Conf Registration Inc,645.69,USD,2026-05-22,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Casey Kim
+TXN00285,E016,Harper Wells,Marketing,Software & Subscriptions,Zoom,233.3,USD,2026-01-12,Corporate Card,Software & Subscriptions expense at Zoom,True,Reese Turner
+TXN00302,E011,Avery Scott,HR,Office Supplies,Amazon Business,75.1,USD,2026-02-10,Corporate Card,Office Supplies expense at Amazon Business,True,Morgan Diaz
+TXN00482,E010,Drew Patel,Finance,Meals & Entertainment,Bistro 22,72.29,USD,2026-04-16,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Drew Patel
+TXN00357,E004,Sam Rivera,Marketing,Client Gifts,Gift Emporium,33.41,USD,2026-05-20,Cash - Reimbursement,Client Gifts expense at Gift Emporium,True,Rowan Blake
+TXN00403,E003,Priya Nair,Marketing,Travel - Lodging,Holiday Inn,275.09,USD,2026-04-05,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Dakota Reyes
+TXN00229,E003,Priya Nair,Marketing,Travel - Airfare,United Airlines,885.64,USD,2026-01-25,Corporate Card,Travel - Airfare expense at United Airlines,True,Alex Morgan
+TXN00262,E020,Dakota Reyes,HR,Meals & Entertainment,Bistro 22,103.73,USD,2026-01-03,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Sam Rivera
+TXN00238,E015,Cameron Ross,Sales,Office Supplies,Office Depot,140.59,USD,2026-05-13,Corporate Card,Office Supplies expense at Office Depot,True,Finley Grant
+TXN00438,E002,Jamie Chen,Sales,Office Supplies,Amazon Business,57.84,USD,2026-03-05,Personal Card - Reimbursement,Office Supplies expense at Amazon Business,True,Emerson Hale
+TXN00475,E020,Dakota Reyes,HR,Travel - Lodging,Marriott,182.89,USD,2026-05-06,Corporate Card,Travel - Lodging expense at Marriott,False,Riley Cooper
+TXN00037,E018,Emerson Hale,Operations,Meals & Entertainment,Uptown Diner,107.25,USD,2026-02-26,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Morgan Diaz
+TXN00197,E001,Alex Morgan,Sales,Client Gifts,Gift Emporium,75.09,USD,2026-04-24,Corporate Card,Client Gifts expense at Gift Emporium,True,Harper Wells
+TXN00140,E012,Quinn Bailey,HR,Client Gifts,Gift Emporium,65.93,USD,2026-06-02,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Skyler James
+TXN00368,E001,Alex Morgan,Sales,Client Gifts,Gift Emporium,33.5,USD,2026-02-28,Corporate Card,Client Gifts expense at Gift Emporium,True,Drew Patel
+TXN00248,E017,Rowan Blake,Engineering,Ground Transport,Lyft,37.12,USD,2026-05-02,Corporate Card,Ground Transport expense at Lyft,True,Drew Patel
+TXN00288,E001,Alex Morgan,Sales,Client Gifts,Gift Emporium,77.39,USD,2026-01-13,Corporate Card,Client Gifts expense at Gift Emporium,False,Jordan Lee
+TXN00378,E018,Emerson Hale,Operations,Travel - Lodging,Holiday Inn,80.65,USD,2026-06-03,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Jamie Chen
+TXN00060,E019,Finley Grant,Finance,Office Supplies,Office Depot,144.51,USD,2026-01-19,Corporate Card,Office Supplies expense at Office Depot,True,Reese Turner
+TXN00112,E019,Finley Grant,Finance,Software & Subscriptions,Zoom,249.12,USD,2026-03-29,Corporate Card,Software & Subscriptions expense at Zoom,True,Avery Scott
+TXN00090,E009,Riley Cooper,Finance,Client Gifts,Gift Emporium,48.52,USD,2026-02-05,Cash - Reimbursement,Client Gifts expense at Gift Emporium,True,Dakota Reyes
+TXN00267,E007,Casey Kim,Operations,Meals & Entertainment,Cafe Nine,76.32,USD,2026-03-02,Cash - Reimbursement,Meals & Entertainment expense at Cafe Nine,True,Quinn Bailey
+TXN00007,E004,Sam Rivera,Marketing,Travel - Airfare,United Airlines,557.18,USD,2026-02-23,Corporate Card,Travel - Airfare expense at United Airlines,True,Reese Turner
+TXN00457,E008,Morgan Diaz,Operations,Office Supplies,Office Depot,55.39,USD,2026-05-05,Corporate Card,Office Supplies expense at Office Depot,True,Reese Turner
+TXN00348,E015,Cameron Ross,Sales,Client Gifts,Corporate Gifts Co,68.81,USD,2026-04-30,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Casey Kim
+TXN00341,E018,Emerson Hale,Operations,Training & Conferences,Conf Registration Inc,509.98,USD,2026-02-23,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Harper Wells
+TXN00159,E009,Riley Cooper,Finance,Meals & Entertainment,Uptown Diner,49.05,USD,2026-03-29,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Finley Grant
+TXN00151,E011,Avery Scott,HR,Meals & Entertainment,Uptown Diner,47.05,USD,2026-05-17,Corporate Card,Meals & Entertainment expense at Uptown Diner,True,Drew Patel
+TXN00178,E004,Sam Rivera,Marketing,Software & Subscriptions,Microsoft,312.55,USD,2026-05-07,Corporate Card,Software & Subscriptions expense at Microsoft,True,Quinn Bailey
+TXN00397,E020,Dakota Reyes,HR,Client Gifts,Gift Emporium,25.6,USD,2026-03-06,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Rowan Blake
+TXN00185,E013,Reese Turner,Executive,Travel - Airfare,Delta Air,708.5,USD,2026-01-08,Corporate Card,Travel - Airfare expense at Delta Air,True,Drew Patel
+TXN00318,E010,Drew Patel,Finance,Travel - Airfare,American Airlines,607.49,USD,2026-02-20,Personal Card - Reimbursement,Travel - Airfare expense at American Airlines,True,Priya Nair
+TXN00011,E008,Morgan Diaz,Operations,Travel - Lodging,Holiday Inn,245.48,USD,2026-02-10,Personal Card - Reimbursement,Travel - Lodging expense at Holiday Inn,True,Reese Turner
+TXN00384,E017,Rowan Blake,Engineering,Travel - Lodging,Marriott,68.12,USD,2026-04-13,Corporate Card,Travel - Lodging expense at Marriott,True,Finley Grant
+TXN00104,E015,Cameron Ross,Sales,Office Supplies,Staples,112.5,USD,2026-06-22,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Dakota Reyes
+TXN00082,E015,Cameron Ross,Sales,Training & Conferences,Conf Registration Inc,221.65,USD,2026-03-22,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Emerson Hale
+TXN00039,E017,Rowan Blake,Engineering,Ground Transport,Lyft,79.03,USD,2026-04-11,Corporate Card,Ground Transport expense at Lyft,True,Quinn Bailey
+TXN00317,E015,Cameron Ross,Sales,Ground Transport,Uber,23.51,USD,2026-05-23,Personal Card - Reimbursement,Ground Transport expense at Uber,True,Riley Cooper
+TXN00168,E008,Morgan Diaz,Operations,Ground Transport,Lyft,33.12,USD,2026-01-08,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Casey Kim
+TXN00474,E020,Dakota Reyes,HR,Travel - Airfare,United Airlines,743.07,USD,2026-05-18,Corporate Card,Travel - Airfare expense at United Airlines,False,Riley Cooper
+TXN00299,E006,Jordan Lee,Engineering,Client Gifts,Corporate Gifts Co,67.96,USD,2026-06-28,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Skyler James
+TXN00405,E020,Dakota Reyes,HR,Training & Conferences,Conf Registration Inc,165.74,USD,2026-05-06,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Quinn Bailey
+TXN00199,E005,Taylor Brooks,Engineering,Meals & Entertainment,Cafe Nine,54.67,USD,2026-03-04,Cash - Reimbursement,Meals & Entertainment expense at Cafe Nine,True,Rowan Blake
+TXN00377,E016,Harper Wells,Marketing,Ground Transport,City Taxi,55.91,USD,2026-03-31,Corporate Card,Ground Transport expense at City Taxi,True,Taylor Brooks
+TXN00147,E020,Dakota Reyes,HR,Ground Transport,City Taxi,51.1,USD,2026-02-23,Personal Card - Reimbursement,Ground Transport expense at City Taxi,True,Drew Patel
+TXN00396,E002,Jamie Chen,Sales,Client Gifts,Corporate Gifts Co,54.79,USD,2026-01-10,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Rowan Blake
+TXN00148,E011,Avery Scott,HR,Travel - Airfare,Delta Air,339.68,USD,2026-01-03,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,True,Harper Wells
+TXN00483,E013,Reese Turner,Executive,Meals & Entertainment,Uptown Diner,145.49,USD,2026-01-18,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Riley Cooper
+TXN00290,E020,Dakota Reyes,HR,Software & Subscriptions,Microsoft,112.02,USD,2026-05-01,Corporate Card,Software & Subscriptions expense at Microsoft,True,Quinn Bailey
+TXN00124,E017,Rowan Blake,Engineering,Travel - Airfare,United Airlines,535.42,USD,2026-05-08,Corporate Card,Travel - Airfare expense at United Airlines,True,Emerson Hale
+TXN00372,E011,Avery Scott,HR,Meals & Entertainment,The Grill House,109.45,USD,2026-02-26,Personal Card - Reimbursement,Meals & Entertainment expense at The Grill House,True,Finley Grant
+TXN00097,E002,Jamie Chen,Sales,Ground Transport,City Taxi,26.49,USD,2026-05-30,Corporate Card,Ground Transport expense at City Taxi,True,Quinn Bailey
+TXN00144,E017,Rowan Blake,Engineering,Travel - Lodging,Marriott,146.55,USD,2026-03-09,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Harper Wells
+TXN00240,E020,Dakota Reyes,HR,Training & Conferences,EventBrite,216.22,USD,2026-02-03,Corporate Card,Training & Conferences expense at EventBrite,True,Morgan Diaz
+TXN00276,E017,Rowan Blake,Engineering,Travel - Lodging,Holiday Inn,296.32,USD,2026-06-18,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Drew Patel
+TXN00098,E009,Riley Cooper,Finance,Office Supplies,Office Depot,161.56,USD,2026-06-14,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Sam Rivera
+TXN00353,E017,Rowan Blake,Engineering,Client Gifts,Corporate Gifts Co,65.38,USD,2026-03-10,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Avery Scott
+TXN00123,E005,Taylor Brooks,Engineering,Software & Subscriptions,Zoom,242.79,USD,2026-06-21,Corporate Card,Software & Subscriptions expense at Zoom,False,Reese Turner
+TXN00184,E002,Jamie Chen,Sales,Client Gifts,Corporate Gifts Co,65.85,USD,2026-04-25,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Sam Rivera
+TXN00203,E017,Rowan Blake,Engineering,Travel - Lodging,Hilton,80.58,USD,2026-04-20,Personal Card - Reimbursement,Travel - Lodging expense at Hilton,True,Riley Cooper
+TXN00247,E016,Harper Wells,Marketing,Ground Transport,Uber,43.12,USD,2026-06-02,Cash - Reimbursement,Ground Transport expense at Uber,True,Priya Nair
+TXN00308,E004,Sam Rivera,Marketing,Software & Subscriptions,Zoom,224.56,USD,2026-06-11,Corporate Card,Software & Subscriptions expense at Zoom,False,Riley Cooper
+TXN00423,E008,Morgan Diaz,Operations,Travel - Lodging,Hilton,153.67,USD,2026-05-14,Personal Card - Reimbursement,Travel - Lodging expense at Hilton,True,Alex Morgan
+TXN00354,E001,Alex Morgan,Sales,Travel - Lodging,Holiday Inn,199.93,USD,2026-04-10,Personal Card - Reimbursement,Travel - Lodging expense at Holiday Inn,True,Dakota Reyes
+TXN00303,E002,Jamie Chen,Sales,Meals & Entertainment,The Grill House,80.35,USD,2026-05-07,Personal Card - Reimbursement,Meals & Entertainment expense at The Grill House,True,Emerson Hale
+TXN00399,E017,Rowan Blake,Engineering,Travel - Airfare,American Airlines,218.08,USD,2026-03-11,Corporate Card,Travel - Airfare expense at American Airlines,False,Priya Nair
+TXN00287,E011,Avery Scott,HR,Office Supplies,Office Depot,130.21,USD,2026-02-01,Corporate Card,Office Supplies expense at Office Depot,True,Rowan Blake
+TXN00126,E002,Jamie Chen,Sales,Client Gifts,Gift Emporium,20.67,USD,2026-03-26,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Priya Nair
+TXN00305,E020,Dakota Reyes,HR,Office Supplies,Amazon Business,114.44,USD,2026-05-17,Personal Card - Reimbursement,Office Supplies expense at Amazon Business,True,Alex Morgan
+TXN00224,E018,Emerson Hale,Operations,Training & Conferences,EventBrite,604.97,USD,2026-02-07,Corporate Card,Training & Conferences expense at EventBrite,True,Sam Rivera
+TXN00422,E019,Finley Grant,Finance,Ground Transport,City Taxi,42.33,USD,2026-05-11,Personal Card - Reimbursement,Ground Transport expense at City Taxi,True,Skyler James
+TXN00220,E006,Jordan Lee,Engineering,Travel - Airfare,American Airlines,454.32,USD,2026-02-04,Personal Card - Reimbursement,Travel - Airfare expense at American Airlines,True,Riley Cooper
+TXN00130,E008,Morgan Diaz,Operations,Travel - Lodging,Marriott,236.22,USD,2026-02-23,Corporate Card,Travel - Lodging expense at Marriott,True,Taylor Brooks
+TXN00424,E005,Taylor Brooks,Engineering,Meals & Entertainment,Cafe Nine,95.64,USD,2026-02-27,Corporate Card,Meals & Entertainment expense at Cafe Nine,True,Riley Cooper
+TXN00292,E003,Priya Nair,Marketing,Ground Transport,Lyft,45.3,USD,2026-02-27,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Emerson Hale
+TXN00492,E003,Priya Nair,Marketing,Training & Conferences,EventBrite,2476.97,USD,2026-03-17,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,False,Riley Cooper
+TXN00394,E005,Taylor Brooks,Engineering,Meals & Entertainment,Uptown Diner,96.92,USD,2026-05-06,Corporate Card,Meals & Entertainment expense at Uptown Diner,False,Sam Rivera
+TXN00479,E006,Jordan Lee,Engineering,Client Gifts,Corporate Gifts Co,34.93,USD,2026-05-07,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Jordan Lee
+TXN00358,E007,Casey Kim,Operations,Ground Transport,Uber,52.82,USD,2026-04-15,Corporate Card,Ground Transport expense at Uber,True,Finley Grant
+TXN00297,E001,Alex Morgan,Sales,Software & Subscriptions,Slack,75.9,USD,2026-04-08,Corporate Card,Software & Subscriptions expense at Slack,True,Taylor Brooks
+TXN00370,E020,Dakota Reyes,HR,Travel - Airfare,American Airlines,873.57,USD,2026-01-17,Corporate Card,Travel - Airfare expense at American Airlines,True,Drew Patel
+TXN00343,E008,Morgan Diaz,Operations,Travel - Airfare,Delta Air,244.68,USD,2026-03-08,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,True,Alex Morgan
+TXN00113,E018,Emerson Hale,Operations,Office Supplies,Staples,69.01,USD,2026-06-26,Corporate Card,Office Supplies expense at Staples,True,Morgan Diaz
+TXN00180,E004,Sam Rivera,Marketing,Office Supplies,Staples,159.25,USD,2026-02-20,Corporate Card,Office Supplies expense at Staples,True,Dakota Reyes
+TXN00419,E017,Rowan Blake,Engineering,Travel - Lodging,Marriott,224.47,USD,2026-06-17,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Cameron Ross
+TXN00342,E012,Quinn Bailey,HR,Travel - Airfare,Delta Air,381.76,USD,2026-02-26,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,False,Finley Grant
+TXN00333,E004,Sam Rivera,Marketing,Travel - Lodging,Marriott,302.93,USD,2026-04-14,Corporate Card,Travel - Lodging expense at Marriott,True,Dakota Reyes
+TXN00486,E012,Quinn Bailey,HR,Ground Transport,Lyft,116.64,USD,2026-03-12,Corporate Card,Ground Transport expense at Lyft,True,Riley Cooper
+TXN00363,E005,Taylor Brooks,Engineering,Software & Subscriptions,Zoom,330.03,USD,2026-05-22,Corporate Card,Software & Subscriptions expense at Zoom,True,Harper Wells
+TXN00234,E009,Riley Cooper,Finance,Client Gifts,Gift Emporium,25.61,USD,2026-06-05,Corporate Card,Client Gifts expense at Gift Emporium,True,Harper Wells
+TXN00472,E014,Skyler James,Executive,Ground Transport,City Taxi,97.38,USD,2026-01-17,Cash - Reimbursement,Ground Transport expense at City Taxi,False,Riley Cooper
+TXN00165,E020,Dakota Reyes,HR,Training & Conferences,Conf Registration Inc,553.47,USD,2026-01-27,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Cameron Ross
+TXN00137,E010,Drew Patel,Finance,Training & Conferences,EventBrite,677.43,USD,2026-03-27,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,True,Casey Kim
+TXN00198,E008,Morgan Diaz,Operations,Meals & Entertainment,Uptown Diner,36.66,USD,2026-02-02,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Rowan Blake
+TXN00259,E012,Quinn Bailey,HR,Meals & Entertainment,Cafe Nine,45.51,USD,2026-05-01,Personal Card - Reimbursement,Meals & Entertainment expense at Cafe Nine,True,Jordan Lee
+TXN00233,E019,Finley Grant,Finance,Office Supplies,Amazon Business,67.33,USD,2026-05-06,Cash - Reimbursement,Office Supplies expense at Amazon Business,True,Cameron Ross
+TXN00116,E017,Rowan Blake,Engineering,Travel - Airfare,United Airlines,583.72,USD,2026-05-09,Corporate Card,Travel - Airfare expense at United Airlines,True,Priya Nair
+TXN00121,E010,Drew Patel,Finance,Client Gifts,Gift Emporium,27.61,USD,2026-05-05,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Emerson Hale
+TXN00352,E011,Avery Scott,HR,Meals & Entertainment,Uptown Diner,59.23,USD,2026-04-03,Corporate Card,Meals & Entertainment expense at Uptown Diner,True,Jordan Lee
+TXN00225,E001,Alex Morgan,Sales,Client Gifts,Corporate Gifts Co,37.41,USD,2026-01-02,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Quinn Bailey
+TXN00406,E017,Rowan Blake,Engineering,Software & Subscriptions,Adobe,208.55,USD,2026-03-10,Corporate Card,Software & Subscriptions expense at Adobe,True,Finley Grant
+TXN00437,E019,Finley Grant,Finance,Travel - Lodging,Hilton,162.62,USD,2026-06-06,Corporate Card,Travel - Lodging expense at Hilton,True,Alex Morgan
+TXN00128,E008,Morgan Diaz,Operations,Travel - Airfare,Delta Air,659.7,USD,2026-06-22,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,True,Cameron Ross
+TXN00286,E003,Priya Nair,Marketing,Travel - Lodging,Hilton,103.06,USD,2026-05-09,Corporate Card,Travel - Lodging expense at Hilton,True,Rowan Blake
+TXN00415,E016,Harper Wells,Marketing,Office Supplies,Amazon Business,156.47,USD,2026-06-07,Personal Card - Reimbursement,Office Supplies expense at Amazon Business,True,Emerson Hale
+TXN00108,E017,Rowan Blake,Engineering,Ground Transport,City Taxi,63.8,USD,2026-01-29,Corporate Card,Ground Transport expense at City Taxi,True,Avery Scott
+TXN00374,E015,Cameron Ross,Sales,Training & Conferences,EventBrite,652.31,USD,2026-05-14,Corporate Card,Training & Conferences expense at EventBrite,True,Finley Grant
+TXN00371,E010,Drew Patel,Finance,Travel - Lodging,Marriott,131.21,USD,2026-04-14,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Avery Scott
+TXN00134,E012,Quinn Bailey,HR,Travel - Lodging,Marriott,86.57,USD,2026-01-17,Cash - Reimbursement,Travel - Lodging expense at Marriott,True,Harper Wells
+TXN00400,E017,Rowan Blake,Engineering,Client Gifts,Gift Emporium,61.43,USD,2026-03-06,Corporate Card,Client Gifts expense at Gift Emporium,True,Sam Rivera
+TXN00045,E012,Quinn Bailey,HR,Training & Conferences,Conf Registration Inc,551.25,USD,2026-04-10,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Drew Patel
+TXN00465,E018,Emerson Hale,Operations,Training & Conferences,EventBrite,500.0,USD,2026-04-29,Corporate Card,Training & Conferences expense at EventBrite,True,Riley Cooper
+TXN00066,E004,Sam Rivera,Marketing,Travel - Airfare,United Airlines,346.49,USD,2026-04-11,Cash - Reimbursement,Travel - Airfare expense at United Airlines,False,Emerson Hale
+TXN00284,E008,Morgan Diaz,Operations,Training & Conferences,Conf Registration Inc,566.03,USD,2026-03-26,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Harper Wells
+TXN00086,E007,Casey Kim,Operations,Software & Subscriptions,Microsoft,236.77,USD,2026-01-13,Corporate Card,Software & Subscriptions expense at Microsoft,True,Priya Nair
+TXN00243,E011,Avery Scott,HR,Client Gifts,Corporate Gifts Co,40.43,USD,2026-06-26,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Skyler James
+TXN00187,E014,Skyler James,Executive,Training & Conferences,EventBrite,331.95,USD,2026-03-11,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,True,Jamie Chen
+TXN00387,E005,Taylor Brooks,Engineering,Training & Conferences,EventBrite,441.33,USD,2026-03-17,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,True,Morgan Diaz
+TXN00160,E007,Casey Kim,Operations,Travel - Airfare,Delta Air,875.06,USD,2026-03-01,Corporate Card,Travel - Airfare expense at Delta Air,True,Sam Rivera
+TXN00013,E001,Alex Morgan,Sales,Travel - Lodging,Marriott,297.46,USD,2026-01-05,Corporate Card,Travel - Lodging expense at Marriott,True,Morgan Diaz
+TXN00036,E017,Rowan Blake,Engineering,Training & Conferences,EventBrite,212.32,USD,2026-02-08,Corporate Card,Training & Conferences expense at EventBrite,True,Priya Nair
+TXN00029,E014,Skyler James,Executive,Travel - Airfare,United Airlines,681.42,USD,2026-06-18,Corporate Card,Travel - Airfare expense at United Airlines,True,Cameron Ross
+TXN00171,E008,Morgan Diaz,Operations,Travel - Lodging,Marriott,98.22,USD,2026-03-05,Corporate Card,Travel - Lodging expense at Marriott,False,Jordan Lee
+TXN00143,E016,Harper Wells,Marketing,Training & Conferences,Conf Registration Inc,670.25,USD,2026-06-02,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Alex Morgan
+TXN00417,E010,Drew Patel,Finance,Training & Conferences,Conf Registration Inc,254.25,USD,2026-03-15,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Priya Nair
+TXN00425,E004,Sam Rivera,Marketing,Travel - Airfare,American Airlines,854.44,USD,2026-04-08,Corporate Card,Travel - Airfare expense at American Airlines,True,Skyler James
+TXN00222,E012,Quinn Bailey,HR,Meals & Entertainment,Uptown Diner,86.32,USD,2026-05-24,Corporate Card,Meals & Entertainment expense at Uptown Diner,True,Dakota Reyes
+TXN00096,E003,Priya Nair,Marketing,Software & Subscriptions,Slack,358.01,USD,2026-06-27,Corporate Card,Software & Subscriptions expense at Slack,True,Drew Patel
+TXN00052,E017,Rowan Blake,Engineering,Travel - Lodging,Hilton,122.91,USD,2026-05-31,Personal Card - Reimbursement,Travel - Lodging expense at Hilton,True,Emerson Hale
+TXN00241,E003,Priya Nair,Marketing,Meals & Entertainment,The Grill House,60.3,USD,2026-01-21,Cash - Reimbursement,Meals & Entertainment expense at The Grill House,True,Emerson Hale
+TXN00376,E012,Quinn Bailey,HR,Meals & Entertainment,The Grill House,114.77,USD,2026-01-11,Corporate Card,Meals & Entertainment expense at The Grill House,True,Riley Cooper
+TXN00382,E008,Morgan Diaz,Operations,Travel - Airfare,American Airlines,705.26,USD,2026-04-11,Corporate Card,Travel - Airfare expense at American Airlines,True,Reese Turner
+TXN00179,E018,Emerson Hale,Operations,Software & Subscriptions,Zoom,149.93,USD,2026-02-14,Personal Card - Reimbursement,Software & Subscriptions expense at Zoom,True,Skyler James
+TXN00042,E009,Riley Cooper,Finance,Ground Transport,Uber,26.77,USD,2026-02-03,Corporate Card,Ground Transport expense at Uber,True,Morgan Diaz
+TXN00440,E017,Rowan Blake,Engineering,Travel - Lodging,Marriott,223.62,USD,2026-01-29,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Harper Wells
+TXN00391,E010,Drew Patel,Finance,Ground Transport,City Taxi,57.44,USD,2026-04-26,Corporate Card,Ground Transport expense at City Taxi,True,Riley Cooper
+TXN00207,E011,Avery Scott,HR,Travel - Lodging,Holiday Inn,109.71,USD,2026-01-19,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Rowan Blake
+TXN00283,E006,Jordan Lee,Engineering,Client Gifts,Corporate Gifts Co,44.09,USD,2026-06-20,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Avery Scott
+TXN00255,E013,Reese Turner,Executive,Software & Subscriptions,Slack,306.17,USD,2026-01-03,Corporate Card,Software & Subscriptions expense at Slack,True,Casey Kim
+TXN00416,E013,Reese Turner,Executive,Ground Transport,City Taxi,38.47,USD,2026-05-09,Corporate Card,Ground Transport expense at City Taxi,True,Cameron Ross
+TXN00005,E005,Taylor Brooks,Engineering,Travel - Lodging,Holiday Inn,101.25,USD,2026-05-12,Personal Card - Reimbursement,Travel - Lodging expense at Holiday Inn,True,Drew Patel
+TXN00257,E005,Taylor Brooks,Engineering,Travel - Lodging,Marriott,127.67,USD,2026-03-05,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Avery Scott
+TXN00453,E006,Jordan Lee,Engineering,Meals & Entertainment,Bistro 22,83.55,USD,2026-03-02,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Cameron Ross
+TXN00101,E006,Jordan Lee,Engineering,Software & Subscriptions,Slack,264.99,USD,2026-01-15,Personal Card - Reimbursement,Software & Subscriptions expense at Slack,True,Morgan Diaz
+TXN00227,E005,Taylor Brooks,Engineering,Ground Transport,Lyft,56.07,USD,2026-06-15,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Avery Scott
+TXN00432,E016,Harper Wells,Marketing,Travel - Lodging,Hilton,168.46,USD,2026-01-29,Corporate Card,Travel - Lodging expense at Hilton,True,Skyler James
+TXN00214,E018,Emerson Hale,Operations,Office Supplies,Amazon Business,77.13,USD,2026-06-10,Corporate Card,Office Supplies expense at Amazon Business,True,Harper Wells
+TXN00426,E004,Sam Rivera,Marketing,Software & Subscriptions,Zoom,199.64,USD,2026-03-29,Personal Card - Reimbursement,Software & Subscriptions expense at Zoom,True,Priya Nair
+TXN00172,E011,Avery Scott,HR,Office Supplies,Staples,170.42,USD,2026-05-16,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Riley Cooper
+TXN00099,E013,Reese Turner,Executive,Travel - Airfare,Delta Air,674.01,USD,2026-04-14,Corporate Card,Travel - Airfare expense at Delta Air,True,Jordan Lee
+TXN00293,E005,Taylor Brooks,Engineering,Ground Transport,City Taxi,80.02,USD,2026-02-02,Corporate Card,Ground Transport expense at City Taxi,True,Jamie Chen
+TXN00216,E003,Priya Nair,Marketing,Client Gifts,Gift Emporium,57.76,USD,2026-05-05,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Morgan Diaz
+TXN00062,E013,Reese Turner,Executive,Ground Transport,Lyft,49.2,USD,2026-06-02,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Jordan Lee
+TXN00048,E003,Priya Nair,Marketing,Ground Transport,Uber,53.72,USD,2026-04-11,Personal Card - Reimbursement,Ground Transport expense at Uber,True,Riley Cooper
+TXN00033,E006,Jordan Lee,Engineering,Travel - Lodging,Marriott,290.39,USD,2026-02-15,Cash - Reimbursement,Travel - Lodging expense at Marriott,True,Alex Morgan
+TXN00268,E017,Rowan Blake,Engineering,Software & Subscriptions,Microsoft,254.43,USD,2026-04-19,Personal Card - Reimbursement,Software & Subscriptions expense at Microsoft,True,Priya Nair
+TXN00328,E005,Taylor Brooks,Engineering,Travel - Airfare,Delta Air,448.56,USD,2026-02-04,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,True,Drew Patel
+TXN00201,E006,Jordan Lee,Engineering,Travel - Lodging,Hilton,280.72,USD,2026-01-23,Corporate Card,Travel - Lodging expense at Hilton,True,Morgan Diaz
+TXN00451,E008,Morgan Diaz,Operations,Training & Conferences,EventBrite,238.1,USD,2026-05-10,Corporate Card,Training & Conferences expense at EventBrite,True,Reese Turner
+TXN00028,E008,Morgan Diaz,Operations,Ground Transport,Lyft,69.07,USD,2026-04-22,Corporate Card,Ground Transport expense at Lyft,True,Finley Grant
+TXN00393,E015,Cameron Ross,Sales,Ground Transport,Lyft,73.89,USD,2026-06-18,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Finley Grant
+TXN00231,E002,Jamie Chen,Sales,Training & Conferences,EventBrite,149.61,USD,2026-03-09,Corporate Card,Training & Conferences expense at EventBrite,True,Skyler James
+TXN00261,E006,Jordan Lee,Engineering,Office Supplies,Office Depot,141.86,USD,2026-02-07,Corporate Card,Office Supplies expense at Office Depot,True,Skyler James
+TXN00289,E003,Priya Nair,Marketing,Meals & Entertainment,Uptown Diner,91.69,USD,2026-05-06,Corporate Card,Meals & Entertainment expense at Uptown Diner,False,Drew Patel
+TXN00163,E007,Casey Kim,Operations,Office Supplies,Amazon Business,162.59,USD,2026-06-09,Personal Card - Reimbursement,Office Supplies expense at Amazon Business,True,Jamie Chen
+TXN00429,E010,Drew Patel,Finance,Client Gifts,Gift Emporium,38.18,USD,2026-02-21,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Skyler James
+TXN00139,E007,Casey Kim,Operations,Meals & Entertainment,Cafe Nine,77.31,USD,2026-02-14,Corporate Card,Meals & Entertainment expense at Cafe Nine,True,Riley Cooper
+TXN00063,E012,Quinn Bailey,HR,Office Supplies,Staples,48.43,USD,2026-04-28,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Dakota Reyes
+TXN00136,E006,Jordan Lee,Engineering,Training & Conferences,EventBrite,626.05,USD,2026-02-28,Cash - Reimbursement,Training & Conferences expense at EventBrite,True,Harper Wells
+TXN00129,E002,Jamie Chen,Sales,Ground Transport,Lyft,71.55,USD,2026-02-05,Personal Card - Reimbursement,Ground Transport expense at Lyft,True,Quinn Bailey
+TXN00481,E010,Drew Patel,Finance,Training & Conferences,Conf Registration Inc,533.43,USD,2026-03-01,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Riley Cooper
+TXN00009,E016,Harper Wells,Marketing,Office Supplies,Office Depot,121.39,USD,2026-05-04,Corporate Card,Office Supplies expense at Office Depot,True,Reese Turner
+TXN00327,E014,Skyler James,Executive,Software & Subscriptions,Slack,192.2,USD,2026-02-19,Corporate Card,Software & Subscriptions expense at Slack,True,Drew Patel
+TXN00468,E008,Morgan Diaz,Operations,Ground Transport,City Taxi,101.93,USD,2026-06-07,Personal Card - Reimbursement,Ground Transport expense at City Taxi,True,Riley Cooper
+TXN00065,E016,Harper Wells,Marketing,Client Gifts,Gift Emporium,74.71,USD,2026-01-16,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Morgan Diaz
+TXN00301,E006,Jordan Lee,Engineering,Office Supplies,Staples,49.07,USD,2026-01-09,Corporate Card,Office Supplies expense at Staples,True,Cameron Ross
+TXN00015,E004,Sam Rivera,Marketing,Software & Subscriptions,Adobe,151.84,USD,2026-06-20,Corporate Card,Software & Subscriptions expense at Adobe,True,Morgan Diaz
+TXN00157,E013,Reese Turner,Executive,Travel - Airfare,Delta Air,205.19,USD,2026-05-18,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,True,Casey Kim
+TXN00041,E020,Dakota Reyes,HR,Training & Conferences,EventBrite,662.12,USD,2026-05-27,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,True,Taylor Brooks
+TXN00380,E015,Cameron Ross,Sales,Software & Subscriptions,Adobe,216.38,USD,2026-03-25,Corporate Card,Software & Subscriptions expense at Adobe,True,Quinn Bailey
+TXN00464,E012,Quinn Bailey,HR,Software & Subscriptions,Microsoft,1459.0,USD,2026-06-24,Corporate Card,Software & Subscriptions expense at Microsoft,True,Riley Cooper
+TXN00407,E016,Harper Wells,Marketing,Meals & Entertainment,Bistro 22,83.84,USD,2026-02-16,Corporate Card,Meals & Entertainment expense at Bistro 22,False,Casey Kim
+TXN00217,E014,Skyler James,Executive,Travel - Lodging,Hilton,145.46,USD,2026-04-19,Corporate Card,Travel - Lodging expense at Hilton,True,Alex Morgan
+TXN00280,E008,Morgan Diaz,Operations,Software & Subscriptions,Zoom,186.68,USD,2026-03-04,Corporate Card,Software & Subscriptions expense at Zoom,True,Sam Rivera
+TXN00439,E007,Casey Kim,Operations,Office Supplies,Staples,155.61,USD,2026-02-27,Corporate Card,Office Supplies expense at Staples,True,Emerson Hale
+TXN00435,E010,Drew Patel,Finance,Client Gifts,Corporate Gifts Co,50.52,USD,2026-01-28,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Cameron Ross
+TXN00338,E018,Emerson Hale,Operations,Meals & Entertainment,Bistro 22,105.28,USD,2026-04-02,Personal Card - Reimbursement,Meals & Entertainment expense at Bistro 22,True,Sam Rivera
+TXN00237,E007,Casey Kim,Operations,Office Supplies,Staples,152.95,USD,2026-05-10,Corporate Card,Office Supplies expense at Staples,True,Jordan Lee
+TXN00208,E020,Dakota Reyes,HR,Software & Subscriptions,Slack,356.54,USD,2026-05-16,Corporate Card,Software & Subscriptions expense at Slack,True,Emerson Hale
+TXN00213,E004,Sam Rivera,Marketing,Travel - Airfare,American Airlines,796.2,USD,2026-03-30,Corporate Card,Travel - Airfare expense at American Airlines,True,Alex Morgan
+TXN00296,E020,Dakota Reyes,HR,Software & Subscriptions,Zoom,340.19,USD,2026-04-09,Corporate Card,Software & Subscriptions expense at Zoom,True,Finley Grant
+TXN00462,E005,Taylor Brooks,Engineering,Client Gifts,Gift Emporium,243.78,USD,2026-02-28,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Riley Cooper
+TXN00252,E017,Rowan Blake,Engineering,Ground Transport,Uber,60.35,USD,2026-05-29,Cash - Reimbursement,Ground Transport expense at Uber,True,Skyler James
+TXN00493,E020,Dakota Reyes,HR,Meals & Entertainment,Bistro 22,750.0,USD,2026-06-18,Corporate Card,Meals & Entertainment expense at Bistro 22,False,Riley Cooper
+TXN00463,E019,Finley Grant,Finance,Meals & Entertainment,Uptown Diner,73.45,USD,2026-03-12,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,False,Riley Cooper
+TXN00304,E016,Harper Wells,Marketing,Software & Subscriptions,Zoom,254.82,USD,2026-02-19,Corporate Card,Software & Subscriptions expense at Zoom,True,Rowan Blake
+TXN00351,E004,Sam Rivera,Marketing,Office Supplies,Amazon Business,155.16,USD,2026-04-29,Corporate Card,Office Supplies expense at Amazon Business,True,Jamie Chen
+TXN00270,E006,Jordan Lee,Engineering,Travel - Airfare,United Airlines,706.6,USD,2026-05-09,Personal Card - Reimbursement,Travel - Airfare expense at United Airlines,True,Drew Patel
+TXN00202,E015,Cameron Ross,Sales,Meals & Entertainment,Uptown Diner,80.2,USD,2026-05-27,Corporate Card,Meals & Entertainment expense at Uptown Diner,True,Emerson Hale
+TXN00162,E018,Emerson Hale,Operations,Travel - Airfare,United Airlines,885.76,USD,2026-06-13,Personal Card - Reimbursement,Travel - Airfare expense at United Airlines,True,Quinn Bailey
+TXN00044,E016,Harper Wells,Marketing,Travel - Lodging,Marriott,90.55,USD,2026-03-10,Corporate Card,Travel - Lodging expense at Marriott,True,Taylor Brooks
+TXN00218,E004,Sam Rivera,Marketing,Travel - Lodging,Marriott,138.74,USD,2026-06-18,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Jamie Chen
+TXN00402,E019,Finley Grant,Finance,Software & Subscriptions,Adobe,237.99,USD,2026-01-27,Corporate Card,Software & Subscriptions expense at Adobe,True,Harper Wells
+TXN00191,E015,Cameron Ross,Sales,Office Supplies,Staples,158.3,USD,2026-02-25,Corporate Card,Office Supplies expense at Staples,True,Quinn Bailey
+TXN00310,E010,Drew Patel,Finance,Meals & Entertainment,The Grill House,54.73,USD,2026-06-17,Corporate Card,Meals & Entertainment expense at The Grill House,True,Dakota Reyes
+TXN00260,E019,Finley Grant,Finance,Office Supplies,Office Depot,94.99,USD,2026-01-20,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Taylor Brooks
+TXN00106,E008,Morgan Diaz,Operations,Client Gifts,Gift Emporium,35.35,USD,2026-05-21,Corporate Card,Client Gifts expense at Gift Emporium,True,Alex Morgan
+TXN00054,E019,Finley Grant,Finance,Meals & Entertainment,Uptown Diner,28.0,USD,2026-03-17,Corporate Card,Meals & Entertainment expense at Uptown Diner,True,Dakota Reyes
+TXN00390,E015,Cameron Ross,Sales,Travel - Lodging,Marriott,170.88,USD,2026-01-27,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Jamie Chen
+TXN00002,E011,Avery Scott,HR,Training & Conferences,EventBrite,463.14,USD,2026-05-30,Corporate Card,Training & Conferences expense at EventBrite,True,Jordan Lee
+TXN00491,E008,Morgan Diaz,Operations,Software & Subscriptions,Adobe,349.43,USD,2026-01-06,Corporate Card,Software & Subscriptions expense at Adobe,True,Morgan Diaz
+TXN00487,E016,Harper Wells,Marketing,Client Gifts,Gift Emporium,284.53,USD,2026-03-30,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,False,Riley Cooper
+TXN00050,E008,Morgan Diaz,Operations,Office Supplies,Office Depot,141.45,USD,2026-04-25,Corporate Card,Office Supplies expense at Office Depot,True,Finley Grant
+TXN00420,E020,Dakota Reyes,HR,Client Gifts,Corporate Gifts Co,30.97,USD,2026-03-10,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Emerson Hale
+TXN00081,E009,Riley Cooper,Finance,Ground Transport,Lyft,83.03,USD,2026-02-14,Corporate Card,Ground Transport expense at Lyft,True,Cameron Ross
+TXN00206,E012,Quinn Bailey,HR,Travel - Lodging,Holiday Inn,65.35,USD,2026-03-21,Personal Card - Reimbursement,Travel - Lodging expense at Holiday Inn,True,Sam Rivera
+TXN00035,E008,Morgan Diaz,Operations,Software & Subscriptions,Zoom,141.03,USD,2026-05-31,Corporate Card,Software & Subscriptions expense at Zoom,True,Jamie Chen
+TXN00431,E006,Jordan Lee,Engineering,Travel - Lodging,Marriott,181.72,USD,2026-04-28,Personal Card - Reimbursement,Travel - Lodging expense at Marriott,True,Reese Turner
+TXN00264,E012,Quinn Bailey,HR,Software & Subscriptions,Microsoft,291.25,USD,2026-01-19,Corporate Card,Software & Subscriptions expense at Microsoft,True,Emerson Hale
+TXN00428,E018,Emerson Hale,Operations,Client Gifts,Gift Emporium,67.27,USD,2026-02-04,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Quinn Bailey
+TXN00367,E016,Harper Wells,Marketing,Training & Conferences,EventBrite,495.77,USD,2026-04-21,Personal Card - Reimbursement,Training & Conferences expense at EventBrite,True,Morgan Diaz
+TXN00092,E008,Morgan Diaz,Operations,Travel - Airfare,American Airlines,784.8,USD,2026-06-03,Corporate Card,Travel - Airfare expense at American Airlines,True,Alex Morgan
+TXN00340,E008,Morgan Diaz,Operations,Travel - Lodging,Holiday Inn,274.27,USD,2026-01-13,Cash - Reimbursement,Travel - Lodging expense at Holiday Inn,True,Rowan Blake
+TXN00478,E004,Sam Rivera,Marketing,Office Supplies,Office Depot,242.48,USD,2026-03-27,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Riley Cooper
+TXN00053,E013,Reese Turner,Executive,Client Gifts,Gift Emporium,31.18,USD,2026-04-23,Corporate Card,Client Gifts expense at Gift Emporium,True,Skyler James
+TXN00346,E003,Priya Nair,Marketing,Training & Conferences,EventBrite,479.21,USD,2026-02-03,Corporate Card,Training & Conferences expense at EventBrite,True,Casey Kim
+TXN00265,E001,Alex Morgan,Sales,Travel - Airfare,American Airlines,341.83,USD,2026-02-16,Cash - Reimbursement,Travel - Airfare expense at American Airlines,True,Skyler James
+TXN00242,E009,Riley Cooper,Finance,Meals & Entertainment,The Grill House,95.68,USD,2026-04-07,Personal Card - Reimbursement,Meals & Entertainment expense at The Grill House,True,Morgan Diaz
+TXN00014,E009,Riley Cooper,Finance,Client Gifts,Gift Emporium,23.85,USD,2026-06-28,Corporate Card,Client Gifts expense at Gift Emporium,True,Dakota Reyes
+TXN00316,E015,Cameron Ross,Sales,Ground Transport,Lyft,39.81,USD,2026-06-10,Corporate Card,Ground Transport expense at Lyft,True,Dakota Reyes
+TXN00089,E006,Jordan Lee,Engineering,Office Supplies,Staples,73.59,USD,2026-03-11,Corporate Card,Office Supplies expense at Staples,True,Quinn Bailey
+TXN00388,E015,Cameron Ross,Sales,Client Gifts,Gift Emporium,67.76,USD,2026-05-12,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Finley Grant
+TXN00274,E018,Emerson Hale,Operations,Meals & Entertainment,Bistro 22,58.26,USD,2026-06-09,Personal Card - Reimbursement,Meals & Entertainment expense at Bistro 22,True,Casey Kim
+TXN00167,E015,Cameron Ross,Sales,Travel - Airfare,Delta Air,328.6,USD,2026-01-24,Corporate Card,Travel - Airfare expense at Delta Air,True,Rowan Blake
+TXN00329,E017,Rowan Blake,Engineering,Office Supplies,Staples,129.29,USD,2026-05-25,Corporate Card,Office Supplies expense at Staples,True,Sam Rivera
+TXN00497,E008,Morgan Diaz,Operations,Training & Conferences,EventBrite,1934.02,USD,2026-04-21,Cash - Reimbursement,Training & Conferences expense at EventBrite,True,Riley Cooper
+TXN00135,E012,Quinn Bailey,HR,Software & Subscriptions,Zoom,340.54,USD,2026-05-29,Personal Card - Reimbursement,Software & Subscriptions expense at Zoom,True,Rowan Blake
+TXN00307,E020,Dakota Reyes,HR,Office Supplies,Office Depot,131.72,USD,2026-01-20,Personal Card - Reimbursement,Office Supplies expense at Office Depot,True,Casey Kim
+TXN00485,E009,Riley Cooper,Finance,Training & Conferences,Conf Registration Inc,565.22,USD,2026-03-23,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Riley Cooper
+TXN00320,E009,Riley Cooper,Finance,Software & Subscriptions,Zoom,165.94,USD,2026-02-14,Corporate Card,Software & Subscriptions expense at Zoom,True,Rowan Blake
+TXN00244,E019,Finley Grant,Finance,Office Supplies,Staples,104.23,USD,2026-03-28,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Priya Nair
+TXN00055,E019,Finley Grant,Finance,Travel - Airfare,American Airlines,240.42,USD,2026-05-20,Corporate Card,Travel - Airfare expense at American Airlines,True,Sam Rivera
+TXN00364,E006,Jordan Lee,Engineering,Meals & Entertainment,Uptown Diner,76.11,USD,2026-06-20,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Casey Kim
+TXN00051,E013,Reese Turner,Executive,Travel - Lodging,Marriott,71.49,USD,2026-06-13,Corporate Card,Travel - Lodging expense at Marriott,True,Priya Nair
+TXN00461,E018,Emerson Hale,Operations,Travel - Lodging,Holiday Inn,193.47,USD,2026-04-30,Cash - Reimbursement,Travel - Lodging expense at Holiday Inn,False,Riley Cooper
+TXN00175,E020,Dakota Reyes,HR,Travel - Airfare,United Airlines,416.8,USD,2026-03-31,Personal Card - Reimbursement,Travel - Airfare expense at United Airlines,True,Jamie Chen
+TXN00446,E004,Sam Rivera,Marketing,Travel - Lodging,Holiday Inn,221.16,USD,2026-04-01,Corporate Card,Travel - Lodging expense at Holiday Inn,True,Emerson Hale
+TXN00190,E020,Dakota Reyes,HR,Training & Conferences,EventBrite,648.5,USD,2026-04-28,Corporate Card,Training & Conferences expense at EventBrite,True,Taylor Brooks
+TXN00501,E012,Quinn Bailey,HR,Training & Conferences,EventBrite,818.25,USD,2026-04-14,Corporate Card,Training & Conferences expense at EventBrite (split submission),True,Riley Cooper
+TXN00188,E003,Priya Nair,Marketing,Office Supplies,Staples,90.15,USD,2026-06-13,Cash - Reimbursement,Office Supplies expense at Staples,True,Quinn Bailey
+TXN00170,E007,Casey Kim,Operations,Meals & Entertainment,Cafe Nine,86.35,USD,2026-06-15,Corporate Card,Meals & Entertainment expense at Cafe Nine,True,Jamie Chen
+TXN00059,E016,Harper Wells,Marketing,Office Supplies,Staples,170.74,USD,2026-03-12,Cash - Reimbursement,Office Supplies expense at Staples,True,Jordan Lee
+TXN00049,E010,Drew Patel,Finance,Travel - Lodging,Marriott,77.15,USD,2026-05-10,Corporate Card,Travel - Lodging expense at Marriott,True,Rowan Blake
+TXN00345,E002,Jamie Chen,Sales,Client Gifts,Corporate Gifts Co,42.56,USD,2026-05-08,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Quinn Bailey
+TXN00236,E006,Jordan Lee,Engineering,Client Gifts,Corporate Gifts Co,27.28,USD,2026-03-03,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Cameron Ross
+TXN00253,E007,Casey Kim,Operations,Client Gifts,Corporate Gifts Co,19.83,USD,2026-05-30,Cash - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Finley Grant
+TXN00022,E017,Rowan Blake,Engineering,Client Gifts,Corporate Gifts Co,40.23,USD,2026-05-19,Personal Card - Reimbursement,Client Gifts expense at Corporate Gifts Co,True,Riley Cooper
+TXN00314,E013,Reese Turner,Executive,Meals & Entertainment,Uptown Diner,62.52,USD,2026-04-19,Personal Card - Reimbursement,Meals & Entertainment expense at Uptown Diner,True,Skyler James
+TXN00460,E006,Jordan Lee,Engineering,Client Gifts,Corporate Gifts Co,73.53,USD,2026-04-10,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Quinn Bailey
+TXN00161,E020,Dakota Reyes,HR,Training & Conferences,Conf Registration Inc,173.14,USD,2026-01-17,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Alex Morgan
+TXN00277,E007,Casey Kim,Operations,Software & Subscriptions,Slack,243.43,USD,2026-03-02,Personal Card - Reimbursement,Software & Subscriptions expense at Slack,True,Drew Patel
+TXN00444,E004,Sam Rivera,Marketing,Client Gifts,Corporate Gifts Co,52.64,USD,2026-03-23,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Harper Wells
+TXN00192,E020,Dakota Reyes,HR,Travel - Airfare,United Airlines,223.76,USD,2026-01-20,Corporate Card,Travel - Airfare expense at United Airlines,True,Priya Nair
+TXN00386,E011,Avery Scott,HR,Meals & Entertainment,The Grill House,47.86,USD,2026-01-22,Personal Card - Reimbursement,Meals & Entertainment expense at The Grill House,True,Sam Rivera
+TXN00294,E003,Priya Nair,Marketing,Training & Conferences,Conf Registration Inc,173.48,USD,2026-05-28,Corporate Card,Training & Conferences expense at Conf Registration Inc,True,Sam Rivera
+TXN00414,E004,Sam Rivera,Marketing,Travel - Lodging,Hilton,272.6,USD,2026-06-03,Corporate Card,Travel - Lodging expense at Hilton,True,Dakota Reyes
+TXN00344,E015,Cameron Ross,Sales,Office Supplies,Staples,154.36,USD,2026-05-08,Personal Card - Reimbursement,Office Supplies expense at Staples,True,Priya Nair
+TXN00258,E014,Skyler James,Executive,Client Gifts,Gift Emporium,28.06,USD,2026-01-13,Corporate Card,Client Gifts expense at Gift Emporium,True,Drew Patel
+TXN00309,E006,Jordan Lee,Engineering,Software & Subscriptions,Microsoft,153.13,USD,2026-01-12,Personal Card - Reimbursement,Software & Subscriptions expense at Microsoft,True,Dakota Reyes
+TXN00150,E003,Priya Nair,Marketing,Training & Conferences,EventBrite,257.32,USD,2026-03-30,Corporate Card,Training & Conferences expense at EventBrite,True,Jamie Chen
+TXN00131,E001,Alex Morgan,Sales,Travel - Airfare,American Airlines,371.81,USD,2026-03-22,Corporate Card,Travel - Airfare expense at American Airlines,True,Priya Nair
+TXN00152,E009,Riley Cooper,Finance,Client Gifts,Corporate Gifts Co,74.57,USD,2026-05-04,Corporate Card,Client Gifts expense at Corporate Gifts Co,True,Taylor Brooks
+TXN00360,E004,Sam Rivera,Marketing,Office Supplies,Amazon Business,130.14,USD,2026-01-08,Personal Card - Reimbursement,Office Supplies expense at Amazon Business,True,Casey Kim
+TXN00100,E001,Alex Morgan,Sales,Client Gifts,Gift Emporium,46.32,USD,2026-02-22,Personal Card - Reimbursement,Client Gifts expense at Gift Emporium,True,Dakota Reyes
+TXN00373,E017,Rowan Blake,Engineering,Travel - Airfare,Delta Air,539.22,USD,2026-02-23,Corporate Card,Travel - Airfare expense at Delta Air,True,Jamie Chen
+TXN00088,E019,Finley Grant,Finance,Travel - Airfare,Delta Air,427.46,USD,2026-03-05,Corporate Card,Travel - Airfare expense at Delta Air,True,Reese Turner
+TXN00459,E013,Reese Turner,Executive,Meals & Entertainment,Bistro 22,26.32,USD,2026-06-07,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Priya Nair
+TXN00331,E010,Drew Patel,Finance,Travel - Airfare,Delta Air,320.42,USD,2026-06-23,Personal Card - Reimbursement,Travel - Airfare expense at Delta Air,True,Avery Scott
+TXN00215,E005,Taylor Brooks,Engineering,Client Gifts,Gift Emporium,54.16,USD,2026-05-18,Corporate Card,Client Gifts expense at Gift Emporium,True,Jamie Chen
+TXN00467,E002,Jamie Chen,Sales,Office Supplies,Staples,147.9,USD,2026-03-07,Cash - Reimbursement,Office Supplies expense at Staples,True,Jamie Chen
+TXN00122,E002,Jamie Chen,Sales,Meals & Entertainment,Bistro 22,80.41,USD,2026-05-10,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Jordan Lee
+TXN00504,E012,Quinn Bailey,HR,Ground Transport,Lyft,112.0,USD,2026-03-12,Corporate Card,Ground Transport expense at Lyft (split submission),True,Riley Cooper
+TXN00021,E001,Alex Morgan,Sales,Meals & Entertainment,Bistro 22,86.42,USD,2026-06-09,Corporate Card,Meals & Entertainment expense at Bistro 22,True,Quinn Bailey
+TXN00189,E010,Drew Patel,Finance,Travel - Lodging,Hilton,103.34,USD,2026-01-10,Personal Card - Reimbursement,Travel - Lodging expense at Hilton,True,Taylor Brooks
+TXN00072,E014,Skyler James,Executive,Meals & Entertainment,Cafe Nine,46.5,USD,2026-01-04,Corporate Card,Meals & Entertainment expense at Cafe Nine,True,Jamie Chen
+TXN00107,E015,Cameron Ross,Sales,Training & Conferences,Conf Registration Inc,455.71,USD,2026-03-09,Personal Card - Reimbursement,Training & Conferences expense at Conf Registration Inc,True,Drew Patel
+TXN00271,E014,Skyler James,Executive,Ground Transport,Uber,75.38,USD,2026-02-05,Corporate Card,Ground Transport expense at Uber,True,Drew Patel
+TXN00349,E001,Alex Morgan,Sales,Meals & Entertainment,The Grill House,42.4,USD,2026-05-27,Corporate Card,Meals & Entertainment expense at The Grill House,True,Emerson Hale
+TXN00436,E019,Finley Grant,Finance,Software & Subscriptions,Slack,302.68,USD,2026-04-17,Corporate Card,Software & Subscriptions expense at Slack,True,Alex Morgan
+TXN00103,E010,Drew Patel,Finance,Office Supplies,Amazon Business,151.21,USD,2026-05-21,Corporate Card,Office Supplies expense at Amazon Business,True,Dakota Reyes
