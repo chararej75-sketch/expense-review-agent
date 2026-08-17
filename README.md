@@ -2,8 +2,8 @@
 
 An AI decision-support agent for **Accounts Payable / expense audit**: it reviews batches of employee expense claims, flags policy violations and statistical anomalies, assigns a 0-100 risk score, and recommends an action (auto-approve, manual review, or escalate) -- with a plain-language, auditable explanation for every transaction.
 
-- **Live app:** ADD_YOUR_STREAMLIT_URL_HERE
-- **GitHub repo:** ADD_YOUR_GITHUB_URL_HERE
+- **Live app:**  https://expense-review-agent-hqsfyjjy9capprqxgwkqhppq.streamlit.app
+- **GitHub repo:** https://github.com/chararej75-sketch/expense-review-agent
 
 ---
 
